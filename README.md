@@ -1,6 +1,6 @@
-### Hey ... Welcome to my likkle corner 👩‍💻
+g### Hey ... Welcome to my likkle corner 👩‍💻
 My name is Bonga Roberta Mokoena. I've apparently been around the sun for quarter of a century - quite impressive huh 😏.
-I am a passionate about QA Engineering with Dev traits in me... based in South Africa - Johannesburg. 
+I am a passionate about becoming a QA Engineering ... based in South Africa - Johannesburg. 
 
 🤔 **What I know:**
 
