@@ -6,18 +6,18 @@ I am a passionate about QA Engineering with Dev traits in me... based in South A
 
 **Business Analysis**: Requirement Gathering, GAP Analysis, High Level Brief Doc
 
-**Software Testing**: Cypress Postman
+**Software Testing**: Cypress, Postman, Eclipse
 
-**Dev**: C# ASP.NET
+**Dev**: C#, ASP.NET, TDD
 
 **DB**: MSSQL
 
-**Version Control**: Git GitLab
+**Version Control**: Git, GitLab
 
-**More**: Confluence Jira Trello AzureDevOps
+**More**: Confluence, Jira, Trello, AzureDevOps
 
 🌱 **I’m currently learning:** 
-- React
+- Java
 
 🤸‍♀️ **Fun Fact:**
 - My go to sport to play: Hockey and to watch: Rugby.
