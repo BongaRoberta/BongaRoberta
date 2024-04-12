@@ -6,7 +6,7 @@ I am a passionate about becoming a QA Engineering ... based in South Africa - Jo
 
 **Business Analysis**: Requirement Gathering, GAP Analysis, High Level Brief Doc
 
-**Software Testing**: Cypress, Postman, Eclipse
+**Software Testing**: Cypress, Postman
 
 **Dev**: C#, ASP.NET, TDD
 
@@ -17,7 +17,7 @@ I am a passionate about becoming a QA Engineering ... based in South Africa - Jo
 **More**: Confluence, Jira, Trello, AzureDevOps
 
 🌱 **I’m currently learning:** 
-- Java
+- Eclipse - Java - JUnit
 
 🤸‍♀️ **Fun Fact:**
 - My go to sport to play: Hockey and to watch: Rugby.
