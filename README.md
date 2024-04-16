@@ -1,6 +1,6 @@
-g### Hey ... Welcome to my likkle corner 👩‍💻
-My name is Bonga Roberta Mokoena. I've apparently been around the sun for quarter of a century - quite impressive huh 😏.
-I am a passionate about becoming a QA Engineering ... based in South Africa - Johannesburg. 
+Hey ... Welcome to my likkle corner 👩‍💻
+My name is Bonga Roberta Mokoena.
+I am a passionate about becoming a QA Engineer ... and am currently based in Johannesburg - South Africa.
 
 🤔 **What I know:**
 
@@ -12,16 +12,16 @@ I am a passionate about becoming a QA Engineering ... based in South Africa - Jo
 
 **DB**: MSSQL
 
-**Version Control**: Git, GitLab
+**Version Control**: Git
 
-**More**: Confluence, Jira, Trello, AzureDevOps
+**More**: Confluence, Jira, Trello, AzureDevOps, Gitlab
 
 🌱 **I’m currently learning:** 
 - Eclipse - Java - JUnit
+- HTML - CSS - JS
 
 🤸‍♀️ **Fun Fact:**
 - My go to sport to play: Hockey and to watch: Rugby.
-- I'm currently enjoying the gym.
 
 🎤 **Wanna Chat?**
 
