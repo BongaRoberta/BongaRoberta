@@ -1,6 +1,6 @@
 Hey ... Welcome to my likkle corner 👩‍💻
 My name is Bonga Roberta Mokoena.
-I am a passionate about becoming a QA Engineer ... and am currently based in Johannesburg - South Africa.
+I am passionate about becoming a QA Engineer ... and am currently based in Johannesburg - South Africa.
 
 🤔 **What I know:**
 
